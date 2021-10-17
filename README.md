@@ -19,7 +19,7 @@ pip install webdriver-manager
 pip install python-docx
 ```
 
-## Example usage 1
+## Example Usage 1
 
 ```python
 from scrape_khana_academy.scraper import scraper
@@ -27,7 +27,7 @@ from scrape_khana_academy.scraper import scraper
 scraper("https://www.khanacademy.org/math/7th-engage-ny")
 ```
 
-## Example usage 2
+## Example Usage 2
 
 ```python
 links = [
